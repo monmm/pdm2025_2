@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Sensores</string>
+    <string name="app_name">Proyecto</string>
+    <string name="temperature">Temperatura: %1$s°C</string>
+    <string name="humidity">Humedad: %1$s%%</string>
+    <string name="ip_hint">Ingrese la IP del sensor</string>
+    <string name="interval_hint">Ingrese intervalo en segundos</string>
+    <string name="start_button_text">Capturar</string>
+    <string name="stop_button_text">Detener captura</string>
 </resources>
